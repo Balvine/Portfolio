@@ -5,28 +5,61 @@ a{
     text-decoration: none;
 }
 .navbar{
+    position: absolute;
     width: 357px;
     height: 18px;
-    margin-left: 240px;
-    margin-top: 120px;
-    font-size: 40px;
+    left: 90px;
+    top: 17px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
     display: flex;
-    justify-content: space-between;
-} 
-.image{
-    width: 290px;
-    height: 290px;
-    margin-left: 803px;
-    margin-top: 15px;
-
-} 
-h1{
-    width: 120px;
-    height: 120px;
-    margin-left: 250px;
-    margin-top: -255px;
-    font-weight: bold;
-    font-size: 51px;
-    line-height: 62px;
+    justify-content: space-evenly;
+    
 }
-   
+.image{
+    position: absolute;
+    width: 287px;
+    height: 293px;
+    left: 125px;
+    top: 79px;
+}
+h1{ 
+   position: absolute;
+   width: 348px;
+   height: 203px;
+   left: 460px;
+   top: 122px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 53px;
+  line-height: 62px;
+  text-align: center;
+
+  color: #000000;
+
+    
+}
+h2{
+  position: absolute;
+  width: 260px;
+  height: 46px;
+  left: 460px;
+  top: 320px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 39px;
+  line-height: 46px;
+/* identical to box height */
+
+text-align: center;
+
+color: #000000;
+
+}

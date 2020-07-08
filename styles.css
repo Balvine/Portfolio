@@ -1,24 +1,25 @@
 body{
     background: linear-gradient(270deg, #ADCCC1 1.58%, rgba(201, 226, 240, 0) 69.14%);
 }
+
 a{
     text-decoration: none;
 }
+
 .navbar{
     position: absolute;
     width: 357px;
     height: 18px;
     left: 90px;
-    top: 17px;
-    
+    top: 17px;   
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
     font-size: 22px;
     display: flex;
-    justify-content: space-evenly;
-    
+    justify-content: space-evenly;    
 }
+
 .image{
     position: absolute;
     width: 287px;
@@ -26,40 +27,46 @@ a{
     left: 125px;
     top: 79px;
 }
+
 h1{ 
    position: absolute;
    width: 348px;
    height: 203px;
    left: 460px;
    top: 122px;
-
-  font-family: Roboto;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 53px;
-  line-height: 62px;
-  text-align: center;
-
+   font-family: Roboto;
+   font-style: normal;
+   font-weight: bold;
+   font-size: 53px;
+   line-height: 62px;
+   text-align: center;
   color: #000000;
-
-    
 }
+
 h2{
   position: absolute;
   width: 260px;
   height: 46px;
   left: 505px;
   top: 260px;
-
   font-family: Roboto;
   font-style: normal;
   font-weight: normal;
   font-size: 33px;
   line-height: 46px;
-/* identical to box height */
-
-text-align: center;
-
-color: #000000;
-
+  text-align: center;
+  color: #000000;
 }
+
+.socialmedia{
+    margin-left: 805px;
+    margin-top: 173px;
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+
+
+

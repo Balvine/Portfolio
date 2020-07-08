@@ -1,0 +1,16 @@
+body{
+    background: linear-gradient(270deg, #ADCCC1 1.58%, rgba(201, 226, 240, 0) 69.14%);
+}
+a{
+    text-decoration: none;
+}
+.navbar{
+    width: 357px;
+    height: 18px;
+    margin-left: 138px;
+    top: 17px;
+    font-size: 16px;
+    display: flex;
+    justify-content: space-between;
+}  
+   

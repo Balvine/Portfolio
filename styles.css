@@ -12,5 +12,12 @@ a{
     font-size: 16px;
     display: flex;
     justify-content: space-between;
-}  
+} 
+.image{
+    width: 400px;
+    height: 353px;
+    margin-left: 709px;
+    margin-top: 37px;
+
+} 
    

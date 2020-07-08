@@ -7,17 +7,26 @@ a{
 .navbar{
     width: 357px;
     height: 18px;
-    margin-left: 238px;
-    top: 17px;
-    font-size: 16px;
+    margin-left: 240px;
+    margin-top: 120px;
+    font-size: 40px;
     display: flex;
     justify-content: space-between;
 } 
 .image{
-    width: 400px;
-    height: 353px;
-    margin-left: 709px;
-    margin-top: 37px;
+    width: 290px;
+    height: 290px;
+    margin-left: 803px;
+    margin-top: 15px;
 
 } 
+h1{
+    width: 120px;
+    height: 120px;
+    margin-left: 250px;
+    margin-top: -255px;
+    font-weight: bold;
+    font-size: 51px;
+    line-height: 62px;
+}
    

@@ -52,3 +52,51 @@ h2{position: absolute;
     
     color: #000000; 
 }
+.fb{position: absolute;
+    width: 25px;
+    height: 21px;
+    left: 639px;
+    top: 490px;
+    
+}
+.text-1{position: absolute;
+    width: 254px;
+    height: 18px;
+    left: 679px;
+    top: 493px;
+    
+    font-family: Risque;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 17px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+    
+}
+.twitter{position: absolute;
+    width: 23px;
+    height: 23px;
+    left: 641px;
+    top: 538px;
+
+}
+.text-2{
+    position: absolute;
+width: 96px;
+height: 17px;
+left: 678px;
+top: 540px;
+
+font-family: Risque;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 17px;
+
+}
+.github{
+    
+}

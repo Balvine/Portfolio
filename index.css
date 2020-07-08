@@ -26,3 +26,16 @@ body{
     height:400px !important;*/
     background-color: #fefffa;
 }
+.balvine{
+    font-weight: bold;
+    font-size: 20px;
+}
+.about-balvine{
+    font-weight: 700;
+}
+.home{
+    border-top: 6px solid #ff4b2b;
+    padding-top: 1px;
+}
+.call-balvine{
+    border: 1px solid #dcdcdc;

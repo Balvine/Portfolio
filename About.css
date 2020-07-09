@@ -1,0 +1,29 @@
+body{
+    position: relative;
+    width: 1827px;
+    height: 1228px;
+
+    background: #C4C4C4;
+
+}.image{
+    position: absolute;
+    width: 472px;
+    height: 478px;
+    left: 979px;
+    top: 172px;
+
+}
+h1{
+    position: absolute;
+    width: 304px;
+    height: 65px;
+    left: 128px;
+    top: 62px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 56px;
+    line-height: 66px;
+
+}

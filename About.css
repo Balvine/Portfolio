@@ -1,15 +1,12 @@
 body{
-    position: relative;
-    width: 1827px;
-    height: 1228px;
 
     background: #C4C4C4;
 
 }.image{
     position: absolute;
-    width: 472px;
+    width: 402px;
     height: 478px;
-    left: 979px;
+    left: 500px;
     top: 172px;
 
 }
@@ -26,4 +23,69 @@ h1{
     font-size: 56px;
     line-height: 66px;
 
+}
+.text-1{
+    position: absolute;
+    width: 1002px;
+    height: 596px;
+    left: 16px;
+    top: 148px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 43px;
+    line-height: 50px;
+    
+    color: #000000;
+    
+}
+h2{
+    position: absolute;
+   width: 298px;
+   height: 134px;
+   left: 63px;
+   top: 796px;
+
+   font-family: Roboto;
+   font-style: normal;
+   font-weight: bold;
+   font-size: 43px;
+   line-height: 50px;
+   text-decoration-line: underline;
+
+   color: #000000;
+
+}
+#first{
+    position: absolute;
+    width: 438px;
+    height: 112px;
+    left: 79px;
+    top: 854px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    line-height: 41px;
+
+    color: #000000;
+
+}
+h2{
+    position: absolute;
+    width: 107px;
+    height: 53px;
+    left: 60px;
+    top: 940px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 53px;
+    /* identical to box height */
+    
+    text-decoration-line: underline;
 }

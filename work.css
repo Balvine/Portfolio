@@ -1,0 +1,45 @@
+body{
+    background: #BBC5C1;
+}
+h1{
+    position: absolute;
+    width: 328px;
+    height: 98px;
+    left: 163px;
+    top: 93px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 84px;
+    line-height: 98px;
+    color: #000000;
+}
+h2{
+    position: absolute;
+    width: 618px;
+    height: 44px;
+    left: 182px;
+    top: 219px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 34px;
+    line-height: 40px;
+    color: #000000; 
+}
+h3{
+    position: absolute;
+    width: 106px;
+    height: 40px;
+    left: 182px;
+    top: 300px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 34px;
+    line-height: 40px;
+    color: #000000;
+}

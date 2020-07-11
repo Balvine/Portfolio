@@ -1,45 +1,50 @@
 body{
-    background: #BBC5C1;
-}
-h1{
-    position: absolute;
-    width: 328px;
-    height: 98px;
-    left: 163px;
-    top: 93px;
-    
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 84px;
-    line-height: 98px;
-    color: #000000;
+    background-color:  #E5E5E5;
+}h1{
+   margin-left: 400px;
+   margin-top: 90px;
+   font-size: 55px;
+   color: blue;
 }
 h2{
-    position: absolute;
-    width: 618px;
-    height: 44px;
-    left: 182px;
-    top: 219px;
-    
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 34px;
-    line-height: 40px;
-    color: #000000; 
+    margin-left: 90px;
+    margin-top: 50px;
+    font-size: 30px;
 }
 h3{
-    position: absolute;
-    width: 106px;
-    height: 40px;
-    left: 182px;
-    top: 300px;
+   margin-left: 90px;
+   margin-top: 23px;
+   font-size: 20px;
+}
+.image>img{
+    width: 400px;
+    height: 300px;
+    margin-left: 60px;
 
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 34px;
-    line-height: 40px;
-    color: #000000;
+}
+.text-1{
+   font-size: 20px;
+   margin-left: 500px;
+   margin-top: -200px;
+}
+.link-1{
+    margin-left: 642px;
+    margin-top: -40px;
+    font-size: 25px;
+}
+h4{
+    margin-left: 90px;
+    margin-top: 150px;
+    font-size: 23px;
+}
+.image>img{
+    width: 400px;
+    height: 300px;
+    margin-left: 60px;
+    margin-top: -10px;
+}
+.text-2{
+    margin-left: 500px;
+    margin-top: -200px;
+    font-size: 20px;
 }

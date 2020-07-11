@@ -1,5 +1,6 @@
 body{
     background-color: #D0DEDF;
+    overflow: hidden;
 }
 .image{
     width: 460px;
@@ -28,7 +29,16 @@ h1{
     margin-left: 20px;
 }
 .socialmedia{
-    margin-left: 900px;
+    margin-left: 930px;
+    display:flex;
+    justify-content:space-evenly;
     
 }
-
+.contacts{
+    position: absolute;
+    width: 502px;
+    height: 388px;
+    left: 1057px;
+    top: 300px;
+    font-size: 20px;
+}

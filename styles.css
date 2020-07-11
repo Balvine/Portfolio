@@ -1,5 +1,6 @@
 body{
     background: linear-gradient(270deg, #ADCCC1 1.58%, rgba(201, 226, 240, 0) 69.14%);
+    overflow: hidden;
 }
 a{
     text-decoration: none;
@@ -64,8 +65,8 @@ h2{
     flex-direction: column;
 }
 #rights{
-    margin-top: -500px;
-justify-content: center;
+    margin-left: 530px;
+    margin-top: 300px;
   
 }
 

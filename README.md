@@ -3,7 +3,7 @@
 The project was about a portfolio which was to consist of a landing page and an about me section which was to entail your bio.
 ****
 ## PROJECT SETUP INSTRUCTIONS
-If you want to access my website go to my git hub page and click on the live link to go straight to my project.
+If you want to access my website go to my git hub page and click on the  below (link  to my project )in order to access my Portfolio.
 ****
 ## PROJECTS LINKS
 [Link to my github page. ](https://github.com/Balvine/Portfolio)

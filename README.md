@@ -3,12 +3,12 @@
 The project was about a portfolio which was to consist of a landing page and an about me section which was to entail your bio.
 ****
 ## PROJECT SETUP INSTRUCTIONS
-I first created a folder on my desktop then on my terminal i created a new repository which i linked to my workspace ,then  i came up with an out put design which help me in coming up with an input  for my codes, later i coded then added and commited everything in my work and before my accomplishment i deployed my project to gh pages.
+If you want to access my website go to my git hub page and click on the  below (link  to my project )in order to access my Portfolio.
 ****
 ## PROJECTS LINKS
 [Link to my github page. ](https://github.com/Balvine/Portfolio)
 
-[link to my project](https://github.com/Balvine/Portfolio)
+[link to my project](https://balvine.github.io/Portfolio/)
 
 ## LICENSE INFORMATION
 [MIT](Copyright (c) 2020 barl mbari
